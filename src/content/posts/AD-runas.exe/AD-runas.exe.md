@@ -2,7 +2,7 @@
 title: Credential Injection in Active Directory using runas.exe  
 published: 2025-04-18
 description: 'Exploring how to leverage runas.exe with /netonly flag for Active Directory credential injection without interactive login'  
-image: ''
+image: 'AD-runas.exe.jpeg'
 tags: []
 category: 'Active Directory Attacks'
 draft: false 

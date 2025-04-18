@@ -2,7 +2,7 @@
 title: DCSync Attack - Stealing the Entire Network Without Executing Code on the Server
 published: 2025-04-18
 description: 'Post-exploitation technique leveraging Active Directory replication to extract credentials and compromise domain without touching the target server.'
-image: ''
+image: 'AD-DCSync.webp'
 tags: []
 category: 'Active Directory Attacks'
 draft: false 
