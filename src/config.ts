@@ -69,6 +69,11 @@ export const profileConfig: ProfileConfig = {
 			url: "https://eg.linkedin.com/in/amr-abdel-hamide-4a8a28287",
 		},
 		{
+			name: "Youtube",
+			icon: "fa6-brands:youtube",
+			url: "https://www.youtube.com/@BadGlitch0",
+		},
+		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
 			url: "https://github.com/Bad-Glitch",
