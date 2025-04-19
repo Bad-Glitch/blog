@@ -36,11 +36,9 @@ lang: 'ar-eng'
 **Abusing Sudo Binaries** is a well-known privilege escalation technique in Linux systems. It exploits misconfigurations in the `sudo` command, allowing a user with limited privileges to execute specific binaries as a higher-privileged user, typically `root`. If such binaries are improperly restricted, they can be leveraged to gain unauthorized access or escalate privileges.  
 This technique is often used in **post-exploitation scenarios** where an attacker, with limited access to a system, attempts to escalate privileges to gain full control.
 
-![Abusing Sudo Binaries - visual selection](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c4ca823-51d1-47e2-845f-87c9b753cd1e/54c4c0ec-7491-484d-82e0-81b6df0dc727/Abusing_Sudo_Binaries_-_visual_selection.png)
+![Abusing Sudo Binaries - visual selection](sudo-pic1.png)
 
 ## **Detailed Workflow**
-
-![Abusing Sudo Binaries - visual selection (1)](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c4ca823-51d1-47e2-845f-87c9b753cd1e/58363e38-405f-478a-b190-719434805a27/Abusing_Sudo_Binaries_-_visual_selection(1).png)
 
 ### **1. Enumerating Sudo Permissions**
 
