@@ -190,9 +190,8 @@ Steps:
 2. Search for the binary listed in `sudo -l`.
 3. Follow the provided exploitation commands.
 
-### **`Real-World Scenarios`**
+## **`Real-World Scenarios`**
 
-```bash
 ### **Scenario 1: Exploiting `vim`**
 
 - A user has `sudo` permissions for `/usr/bin/vim`: 
@@ -239,5 +238,3 @@ Mitigation Strategies
 Conclusion
 
 Abusing sudo binaries demonstrates the importance of secure configuration management and strict privilege control. By understanding how these techniques work and implementing proper mitigation strategies, system administrators can significantly reduce the risk of privilege escalation attacks.
-
-```
