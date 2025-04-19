@@ -1,9 +1,8 @@
 ---
 title: Abusing Sudo Binaries for Privilege Escalation
 published: 2025-04-19
-updated:  2025-04-19
 description: 'Exploiting Linux sudo misconfigurations to escalate privileges from low-level user to root access'
-image: ''
+image: '1.webp'
 tags: [Linux PrivEsc]
 category: 'Privilege-Escalation'
 draft: false 
