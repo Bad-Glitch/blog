@@ -2,7 +2,7 @@
 title: "The VSSAdmin Dumping Attack: Extracting Sensitive Data via Shadow Copies"
 published: 2025-04-20
 description: 'Exploiting Windows Volume Shadow Copies to extract deleted files and sensitive data while evading detection.'
-image: '1.webp'
+image: 'vss1.webp'
 tags: [ Windows PrivEsc]
 category: 'Privilege Escalation'
 draft: false 

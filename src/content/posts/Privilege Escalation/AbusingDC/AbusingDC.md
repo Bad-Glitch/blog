@@ -2,7 +2,7 @@
 title: "Abusing Trusted Domain Controllers: From Privilege Escalation to Domain Domination"
 published: 2025-04-20
 description: "Exploiting misconfigurations and vulnerabilities in trusted Domain Controllers to escalate privileges and compromise the entire domain."
-image: '1.jpeg'
+image: 'dc1.jpeg'
 tags: []
 category: 'Privilege Escalation'
 draft: false
