@@ -4,8 +4,8 @@ published: 2025-04-19
 description: "Deep dive into abusing scheduled tasks and cron jobs for privilege escalation, persistence, and system compromise across Windows and Linux environments."
 image: 'tasks.webp'
 tags: [Linux PrivEsc, Windows PrivEsc]
-category: 'Privilege-Escalation'
-draft: false 
+category: 'Privilege Escalation
+
 lang: 'ar-eng'
 ---
 

@@ -4,7 +4,7 @@ published: 2025-04-19
 description: 'Exploiting Linux sudo misconfigurations to escalate privileges from low-level user to root access'
 image: '1.webp'
 tags: [Linux PrivEsc]
-category: 'Privilege-Escalation'
+category: 'Privilege Escalation
 draft: false 
 lang: 'ar-eng'
 ---
