@@ -1,7 +1,7 @@
 ---
 title: CRTP Review – Certified Red Team Professional
-published: 2025-04-17
-updated: 2025-04-17
+published: 2024-11-15
+updated: 2024-11-15
 description: 'A comprehensive review of the Certified Red Team Professional (CRTP) exam.'
 image: 'CRTP.png'
 category: 'Certifications'

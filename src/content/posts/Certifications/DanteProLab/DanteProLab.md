@@ -1,7 +1,7 @@
 ---
 title: HTB Dante Pro Lab Review (14 Machine - 27 Flags)
-published: 2025-04-17
-updated: 2025-04-17
+published: 2025-02-01
+updated: 2025-02-01
 description: 'An in-depth review of Hack The Box Dante Pro Lab - enterprise-grade penetration testing environment.'
 image: 'dante-lab.png'
 tags: [HTB Pro Labs]
