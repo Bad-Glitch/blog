@@ -132,15 +132,8 @@ robocopy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy1\C:\Users\Administrator\
 4. **Low Detection Risk:**
    - Since shadow copies are created by the system itself, this attack can be difficult to detect, especially if the attacker has elevated privileges.
 
-# Table of Contents
+---
 
-- [The VSSAdmin Dumping Attack](#the-vssadmin-dumping-attack)
-  - [Key Concepts](#key-concepts)
-  - [Steps for the Attack](#steps-for-the-attack)
-    - [1. Check for Existing Shadow Copies](#1-check-for-existing-shadow-copies)
-    - [2. Create a New Shadow Copy (if none exist)](#2-create-a-new-shadow-copy-if-none-exist)
-    - [3. Locate the Shadow Copy](#3-locate-the-shadow-copy)
-    - [4. Copy Data from the Shadow Copy](#4-copy-data-from-the-shadow-copy)
-    - [5. Extract Sensitive Data](#5-extract-sensitive-data)
-  - [Execution Example](#execution-example)
-  - [Why This Attack Is Dangerous](#why-this-attack-is-dangerous)
+**`Happy Hacking Broo`**
+
+---

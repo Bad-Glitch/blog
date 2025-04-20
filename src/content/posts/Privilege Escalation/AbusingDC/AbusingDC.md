@@ -146,6 +146,7 @@ A **Domain Controller (DC)** is the server responsible for managing Active Direc
 2. **Golden/Silver Tickets**: These tickets should be handled carefully and used only when necessary to avoid detection.
 3. **NTLM Relay**: This attack is effective in environments where NTLM authentication is still used.
 4. **Exploit SMB/DCOM**: Always check for unpatched systems that may be vulnerable to these types of attacks.
+---
 
 **`Happy Hacking Broo`**
 
