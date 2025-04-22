@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /_astro/
-
-Sitemap: https://elkhateb-22.github.io/sitemap-index.xml
