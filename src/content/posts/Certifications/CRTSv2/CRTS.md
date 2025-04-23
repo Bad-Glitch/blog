@@ -8,8 +8,6 @@ draft: false
 lang: 'ar-eng'
 ---
 
-# Certified Red Team Specialist (CRTS) V2
-
 The **Certified Red Team Specialist (CRTS) V2** is an advanced and updated training course by **CyberWarFare Labs**. It's designed to reflect real-world adversary techniques and modern red teaming tradecraft. During the webinar, they introduced the new syllabus, lab infrastructure, and explained how the course focuses on stealthy, goal-oriented red team operations.
 
 ---
