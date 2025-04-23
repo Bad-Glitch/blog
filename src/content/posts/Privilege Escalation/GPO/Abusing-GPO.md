@@ -2,7 +2,7 @@
 title: "Abusing Group Policy Objects (GPOs) for Privilege Escalation and Domain Compromise"  
 published: 2025-04-22
 description: "Deep dive into Group Policy Object (GPO) exploitation, from privilege escalation to executing malicious scripts across a domain."  
-image: ''
+image: 'Abusing-GPO.png'
 tags: []
 category: 'Privilege Escalation'
 draft: false 
