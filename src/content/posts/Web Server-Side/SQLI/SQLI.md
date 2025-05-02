@@ -2,14 +2,12 @@
 title: "Mastering SQL Injection: From Data Breach to Remote Code Execution"
 published: 2025-05-02
 description: "Comprehensive guide on SQL Injection vulnerabilities, exploitation techniques from data extraction to remote code execution, and effective prevention strategies."
-image: ''
+image: 'sqli.webp'
 tags: [Web Security]
 category: 'Server-Side Attacks'
 draft: false 
 lang: 'ar-eng'
 ---
-# SQL Injection (SQLi)
-
 ## Table of Contents
 - What is SQL Injection?
 - How Does SQL Injection Work?
@@ -29,6 +27,9 @@ lang: 'ar-eng'
   - Batched (Stacked) Queries
   - Time Delays
   - DNS Lookup
+---
+
+# SQL Injection (SQLi)
 
 ## What is SQL Injection?
 
