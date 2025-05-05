@@ -36,6 +36,8 @@ lang: 'ar-eng'
 * [SameSite Cookie Behavior in Practice](#samesite-cookie-behavior-in-practice)
 * [Bypassing Weak CSRF Protections](#bypassing-weak-csrf-protections)
 
+> **⚠️ Caution:** #FreePalestine
+
 ---
 
 ### Pre-conditions for CSRF to work:
