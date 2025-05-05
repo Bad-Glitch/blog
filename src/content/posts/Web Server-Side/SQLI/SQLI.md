@@ -27,6 +27,9 @@ lang: 'ar-eng'
   - Batched (Stacked) Queries
   - Time Delays
   - DNS Lookup
+
+> **⚠️ Caution:** #FreePalestine
+
 ---
 
 # SQL Injection (SQLi)
