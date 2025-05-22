@@ -3,7 +3,7 @@ title: HTB APT Labs Review – Level 4 Red Team Operator
 published: 2025-02-01
 updated:  2025-02-01
 description: 'An in-depth review of the APTLabs - Level 4 Red Team Operator challenge.'
-image: 'apt-lab.png'
+image: 'aptv2.jpg'
 tags: [HTB Pro Labs]
 category: 'Certifications'
 draft: false 
