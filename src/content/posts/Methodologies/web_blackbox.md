@@ -213,17 +213,13 @@ Remember that security is an ongoing journey, not a destination. Regular testing
 
 ## Additional Resources
 
-### Official Documentation
-- [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) - Comprehensive web security testing methodology
-- [Web Security Testing Guide (WSTG)](https://owasp.org/www-project-web-security-testing-guide/) - Detailed testing procedures
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/) - Most critical web application security risks
-
-### Learning Resources
-- [OWASP Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/) - Detailed testing procedures
+- [OWASP Web Security Testing Guide (WSTG)](https://owasp.org/www-project-web-security-testing-guide/) - Detailed testing procedures
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/) - Quick reference guides
-- [OWASP Security Knowledge Framework](https://owasp.org/www-project-security-knowledge-framework/) - Security training materials
 
 ### Tools and References
+
 - [OWASP ZAP](https://www.zaproxy.org/) - Web application security scanner
 - [Burp Suite](https://portswigger.net/burp) - Web application security testing platform
-- [OWASP Dependency Check](https://owasp.org/www-project-dependency-check/) - Software composition analysis
+- [Nuclei](https://github.com/projectdiscovery/nuclei) - Vulnerability scanner
+- [Nikto](https://github.com/sullo/nikto) - Web server scanner
