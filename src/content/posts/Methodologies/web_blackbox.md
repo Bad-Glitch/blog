@@ -2,7 +2,7 @@
 title: Complete Web Application Black Box Testing Guide
 published: 2025-05-23
 description: 'A comprehensive security methodology for black box testing of web applications from reconnaissance to reporting'
-image: ''
+image: 'WEB1.webp'
 tags: [Web Security]
 category: 'Methodologies'
 draft: true 
