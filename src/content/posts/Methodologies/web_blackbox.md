@@ -5,7 +5,7 @@ description: 'A comprehensive security methodology for black box testing of web 
 image: 'WEB1.webp'
 tags: [Web Security]
 category: 'Methodologies'
-draft: true 
+draft: false 
 lang: 'ar-eng'
 
 ---
