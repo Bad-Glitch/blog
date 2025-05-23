@@ -67,11 +67,11 @@ The first step in any security assessment is gathering information about the tar
 
 #### 1.1 Open Source Reconnaissance
 
-* **Perform Google Dorks search** to find exposed sensitive information
+* Perform Google Dorks search to find exposed sensitive information
 * Search for exposed files and directories
 * Look for sensitive information in cached pages
 * Find exposed configuration files
-* **Perform OSINT (Open Source Intelligence)**:
+* Perform OSINT (Open Source Intelligence):
   * Company information gathering
   * Technology stack identification
   * Employee information collection
@@ -80,7 +80,7 @@ The first step in any security assessment is gathering information about the tar
 
 #### 1.2 Web Server Fingerprinting
 
-* **Identify web server type and version**
+* Identify web server type and version
 * Use tools like Wappalyzer, Whatweb
 * Analyze server response headers
 * Check for version-specific vulnerabilities
@@ -97,7 +97,7 @@ The first step in any security assessment is gathering information about the tar
 - Document all discovered paths
 
 ##### 1.4 Web Server Application Enumeration
-- **Use Nmap for service enumeration**
+- Use Nmap for service enumeration
 - Perform DNS lookups:
   - Forward DNS resolution
   - Reverse DNS resolution
@@ -105,7 +105,7 @@ The first step in any security assessment is gathering information about the tar
 - Document all discovered services
 
 ##### 1.5 Web Content Analysis
-- **Inspect page source for sensitive information**
+- Inspect page source for sensitive information
 - Analyze JavaScript code for vulnerabilities
 - Search for exposed API keys
 - Verify autocomplete settings
@@ -124,7 +124,7 @@ Infrastructure testing focuses on the underlying systems and configurations that
 - Document network architecture
 
 ##### 2.2 Application Configuration Testing
-- **Verify module configuration**
+- Verify module configuration
 - Check required modules
 - Disable unnecessary modules
 - Test DOS handling capabilities
@@ -141,7 +141,7 @@ Infrastructure testing focuses on the underlying systems and configurations that
 - Document file handling policies
 
 ##### 2.4 Backup & Unreferenced Files
-- **Search for backup files**
+- Search for backup files
 - Check unreferenced pages
 - Verify file naming conventions
 - Document discovered files
@@ -159,7 +159,7 @@ Infrastructure testing focuses on the underlying systems and configurations that
 - Document method usage
 
 ##### 2.7 Security Headers Testing
-- **Test HSTS implementation**
+- Test HSTS implementation
 - Verify cross-domain policies
 - Check file permissions
 - Test subdomain security
@@ -172,13 +172,13 @@ Understanding the application's structure and functionality is crucial for effec
 #### Focus Areas:
 
 ##### 3.1 Entry Point Discovery
-- **Identify HTTP methods in use**
+- Identify HTTP methods in use
 - Document method locations
 - Map application endpoints
 - Identify injection points
 
 ##### 3.2 Authentication Testing
-- **Test login functionality**
+- Test login functionality
 - Verify password policies
 - Test account lockout
 - Check password reset process
@@ -188,11 +188,11 @@ Understanding the application's structure and functionality is crucial for effec
 - Check for default credentials
 
 ##### 3.3 Authorization Testing
-- **Test access controls**
+- Test access controls
 - Verify role-based access
 - Test privilege escalation
 - Check directory traversal
-- **Test IDOR vulnerabilities**
+- Test IDOR vulnerabilities
 - Verify file access controls
 - Test API access controls
 
@@ -210,7 +210,7 @@ Input validation testing ensures the application properly handles user input and
 - Test WAF bypasses
 
 ##### 4.2 SQL Injection
-- **Test error-based SQLi**
+- Test error-based SQLi
 - Test blind SQLi
 - Test time-based SQLi
 - Test UNION-based SQLi
@@ -239,7 +239,7 @@ Modern web applications rely heavily on APIs, making API security testing essent
 #### Testing Areas:
 
 ##### 5.1 REST API Testing
-- **Test endpoint security**
+- Test endpoint security
 - Verify authentication
 - Check authorization
 - Test rate limiting
@@ -266,7 +266,7 @@ Client-side security is often overlooked but critical for overall application se
 #### Key Components:
 
 ##### 6.1 Browser Security
-- **Test CORS implementation**
+- Test CORS implementation
 - Verify CSP headers
 - Test clickjacking
 - Check XSS protection
@@ -338,7 +338,7 @@ Business logic testing identifies vulnerabilities in application workflows and p
 #### Testing Focus:
 
 ##### 8.1 Workflow Testing
-- **Test business processes**
+- Test business processes
 - Verify state transitions
 - Test race conditions
 - Check process timing
@@ -365,14 +365,14 @@ A comprehensive security report is crucial for communicating findings and recomm
 #### Report Components:
 
 ##### 9.1 Documentation
-- **Document all findings**
+- Document all findings
 - Include proof of concepts
 - Provide remediation steps
 - Rate vulnerability severity
 - Include affected components
 
 ##### 9.2 Recommendations
-- **Provide security fixes**
+- Provide security fixes
 - Suggest security improvements
 - Include best practices
 - Recommend security controls
@@ -420,4 +420,3 @@ Remember that security is an ongoing journey, not a destination. Regular testing
 * [OWASP ZAP](https://www.zaproxy.org/) - Web application security scanner
 * [Burp Suite](https://portswigger.net/burp) - Web application security testing platform
 * [Nuclei](https://github.com/projectdiscovery/nuclei) - Vulnerability scanner
-* [Nikto](https://github.com/sullo/nikto) - Web server scanner
