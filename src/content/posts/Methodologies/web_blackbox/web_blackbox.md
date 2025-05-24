@@ -8,9 +8,6 @@ category: 'Methodologies'
 draft: false 
 lang: 'ar-eng'
 keywords: 'web application security, black box testing, penetration testing, security testing methodology, web security guide, vulnerability assessment, security testing steps, web application testing'
-author: 'Your Name'
-lastmod: '2025-05-23'
-
 ---
 
 # Complete Web Application Black Box Testing Guide: A Step-by-Step Security Methodology
@@ -159,7 +156,7 @@ Infrastructure testing focuses on the underlying systems and configurations that
 - Document method usage
 
 ##### 2.7 Security Headers Testing
-- Test HSTS implementation
+- Test HTTP Strict Transport Security (HSTS) implementation
 - Verify cross-domain policies
 - Check file permissions
 - Test subdomain security
