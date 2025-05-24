@@ -1,5 +1,5 @@
 ---
-title: 'Complete Web Application Black Box Testing Guide: A Step-by-Step Security Methodology'
+title: 'Web Application Black Box Testing Guide: A Step-by-Step Security Methodology'
 published: 2025-05-23
 description: 'Master web application security with our comprehensive black box testing guide. Learn systematic approaches for vulnerability assessment, penetration testing, and security best practices for web applications.'
 image: 'WEB3.webp'

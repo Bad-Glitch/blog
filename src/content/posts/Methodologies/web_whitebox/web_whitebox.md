@@ -3,7 +3,7 @@ title: 'Web Application White Box Testing Methodology: A Comprehensive Security 
 published: 2025-05-23
 description: 'Master web application security with our comprehensive white box testing guide. Learn systematic approaches for code analysis, security testing, and implementation of robust security controls.'
 image: 'WEB4.webp'
-tags: [Web Security, White Box Testing, Code Analysis]
+tags: [Web Security]
 category: 'Methodologies'
 draft: false 
 lang: 'ar-eng'
@@ -45,41 +45,14 @@ Our comprehensive web application security testing methodology is structured int
 ## Table of Contents
 
 1. [Source Code Analysis](#1-source-code-analysis)
-   - [1.1 Static Code Analysis](#11-static-code-analysis)
-   - [1.2 Code Architecture Review](#12-code-architecture-review)
-   - [1.3 Dependency Analysis](#13-dependency-analysis)
 2. [Database Security Testing](#2-database-security-testing)
-   - [2.1 Database Configuration](#21-database-configuration)
-   - [2.2 Query Analysis](#22-query-analysis)
-   - [2.3 Data Protection](#23-data-protection)
 3. [Admin Panel Testing](#3-admin-panel-testing)
-   - [3.1 Access Control](#31-access-control)
-   - [3.2 Functionality Testing](#32-functionality-testing)
-   - [3.3 Security Controls](#33-security-controls)
 4. [API Security Testing](#4-api-security-testing)
-   - [4.1 API Implementation](#41-api-implementation)
-   - [4.2 API Documentation](#42-api-documentation)
-   - [4.3 API Integration](#43-api-integration)
-5. [Authentication & Authorization](#5-authentication--authorization)
-   - [5.1 Authentication Implementation](#51-authentication-implementation)
-   - [5.2 Authorization Controls](#52-authorization-controls)
-   - [5.3 Session Management](#53-session-management)
+(#5-authentication--authorization)
 6. [Cryptographic Implementation](#6-cryptographic-implementation)
-   - [6.1 Encryption](#61-encryption)
-   - [6.2 Hashing](#62-hashing)
-   - [6.3 Key Management](#63-key-management)
 7. [Error Handling & Logging](#7-error-handling--logging)
-   - [7.1 Error Management](#71-error-management)
-   - [7.2 Logging Implementation](#72-logging-implementation)
-   - [7.3 Audit Trails](#73-audit-trails)
 8. [Configuration Management](#8-configuration-management)
-   - [8.1 Environment Configuration](#81-environment-configuration)
-   - [8.2 Security Configuration](#82-security-configuration)
-   - [8.3 Performance Configuration](#83-performance-configuration)
 9. [Reporting & Documentation](#9-reporting--documentation)
-   - [9.1 Security Documentation](#91-security-documentation)
-   - [9.2 Technical Documentation](#92-technical-documentation)
-   - [9.3 Findings Documentation](#93-findings-documentation)
    
 ## 1. Source Code Analysis
 ### 1.1 Static Code Analysis
